@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "CSAW - Crypto50 Whiter0se"
+title:  "CSAW - Crypto50 wh1ter0se"
 date:   2015-09-20 22:00
 categories: csaw2015
 summary : This is a cryptography challenge for 50 points.
 tags: security ctf csaw2015 cryptography
 ---
 
-When we open the challenge we have this [file]({{ site.url }}/files/csaw2015/crypto50-whiter0se/eps1.7_wh1ter0se_2b007cf0ba9881d954e85eb475d0d5e4.m4v) to download. We also have a little Note: The flag is the entire thing decrypted
+When we open the challenge we have this [file]({{ site.url }}/files/csaw2015/crypto50-wh1ter0se/eps1.7_wh1ter0se_2b007cf0ba9881d954e85eb475d0d5e4.m4v) to download. We also have a little Note: The flag is the entire thing decrypted
 
 I found that is not a real .m4v file... When we open it with notepad we can see this cryptogram : 
 EOY XF, AY VMU M UKFNY TOY YF UFWHYKAXZ EAZZHN. UFWHYKAXZ ZNMXPHN. UFWHYKAXZ EHMOYACOI. VH'JH EHHX CFTOUHP FX VKMY'U AX CNFXY FC OU. EOY VH KMJHX'Y EHHX IFFQAXZ MY VKMY'U MEFJH OU.
