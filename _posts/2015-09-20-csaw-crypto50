@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "CSAW - Crypto50 Whiter0se"
+date:   2015-09-20 22:00
+categories: csaw2015
+summary : This is a cryptography challenge for 50 points.
+tags: security ctf csaw2015 cryptography
+---
+
+When we open the challenge we have this [file]({{ site.url }}/files/csaw2015/crypto50-whiter0se/eps1.7_wh1ter0se_2b007cf0ba9881d954e85eb475d0d5e4.m4v) to download. We also have a little Note: The flag is the entire thing decrypted
+
+I found that is not a real .m4v file... When we open it with notepad we can see this cryptogram : 
+EOY XF, AY VMU M UKFNY TOY YF UFWHYKAXZ EAZZHN. UFWHYKAXZ ZNMXPHN. UFWHYKAXZ EHMOYACOI. VH'JH EHHX CFTOUHP FX VKMY'U AX CNFXY FC OU. EOY VH KMJHX'Y EHHX IFFQAXZ MY VKMY'U MEFJH OU.
+
+I know a useful cryptogram solver that I use online : [rumkin cryptogram solver](http://rumkin.com/tools/cipher/cryptogram-solver.php)
+
+And I get this back :
+
+- BUT NO IT WAS A SHORT CUT TO SOMETHING BIGGER SOMETHING GRANDER SOMETHING BEAUTIFUL WE'VE BEEN FOCUSED ON WHAT'S IN FRONT OF US BUT WE HAVEN'T BEEN LOOKING AT WHAT'S ABOVE US
+
+- BUT NO IT WAS A SHORT CUT TO SOMETHING BIGGER SOMETHING GRANDER SOMETHING BEAUTIFUL WE'VE BEEN FOCUSED ON WHAT'S IN FRONT OF US BUT WE HAVEN'T BEEN LOOPING AT WHAT'S ABOVE US
+
+I search a little bit on google to find the good one and it seems that is some lyrics from an episode of Mr. Robot. The good one which is the flag is :
+
+- But no, it was a short cut to something bigger. Something grander. Something beautiful. We've been focused on what's in front of us. But we haven't been looking at what's above us.
+
+And that's it ! 
