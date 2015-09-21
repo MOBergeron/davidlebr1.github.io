@@ -17,8 +17,6 @@ My first reflex with Wireshark is to verify if I can extract file that are trans
 
 The extracted files were the whole [polictf.it](http://polictf.it) website with one exception, the logo was different 
 
-After, I found that the logo.png on the website was different with the one in the extract file. 
-
 So, I used [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) to analyze the image. 
 
 Finally, the flag was in the image. 
