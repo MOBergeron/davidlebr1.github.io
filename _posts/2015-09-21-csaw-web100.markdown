@@ -11,10 +11,9 @@ tags: security ctf csaw2015 cryptography
 **Points** : 100
 
 #Write-up
+At the start of the CTF, this challenge was worth 50 points, but they change it for 100 points. We realized that when you register/logout you get three more tokens each time. So, you create a new account to get more tokens. In that challenge, you need 10 tokens to buy a compass and one token for a pack of five food item.
 
-At the start of the CTF, this challenge was worth 50 pts but they change it for 100 pts. We realized that when you register/logout you get 3 more tokens each time. So, you create a new account to get more token. In that challenge, you need 10 tokens to buy a compass and 1 token for a pack of 5 foods item. 
-
-We create a python script that create many accounts. Then, it return the cookie that we can replace with your current one. So, with that script you don't need to manually create account to have more tokens. 
+We create a python script that create many account. Then, it returns the cookie that we can replace with your current one. So, with that script you don't need to manually create account to have more tokens.
 
 ###Script by [MOBergeron](https://gist.github.com/MOBergeron/a34e719e4587257defab)
 {% highlight python %}
@@ -47,9 +46,9 @@ if __name__ == "__main__":
 	print(r.cookies)
 {% endhighlight %}
 
-Then, you just need to by a compass, foods and follow the compass indication to find the stairs.
+Then, you just need to buy a compass, foods and follow the compass indication to find the stairs.
 
-And when we reach the stairs we get this message :
+And when we reach the stairs we get this message:
 
 “Your compass indicates you are going the right way. You found the exit... You win! You find the key on a piece of paper: KEY{H0000LY_ST41rRs_S0000_MUCH_SPACE}. Then a grue gets you. You die.”
 
