@@ -13,7 +13,7 @@ tags: security ctf csaw2015 cryptography
 #Write-up
 At the start of the CTF, this challenge was worth 50 points, but they changed it for 100 points. We realized that when you register/logout you get three more tokens each time. In that challenge, you need 10 tokens to buy a compass and one token for a pack of five food item.
 
-We created a python script that create many account. Then, it returns the cookie that we can replace with your current one. So, with that script you don't need to manually create account to have more tokens.
+My partner created a python script that create many account. Then, it returns the cookie that you can replace with your current one. So, with that script you don't need to manually create an account to have more tokens.
 
 ###Script by [MOBergeron](https://gist.github.com/MOBergeron/a34e719e4587257defab)
 {% highlight python %}
@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
 Then, you just need to buy a compass, foods and follow the compass indication to find the stairs.
 
-And when we reach the stairs we get this message:
+And when we reached the stairs we got this message:
 
 “Your compass indicates you are going the right way. You found the exit... You win! You find the key on a piece of paper: KEY{H0000LY_ST41rRs_S0000_MUCH_SPACE}. Then a grue gets you. You die.”
 
