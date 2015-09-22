@@ -11,9 +11,9 @@ tags: security ctf csaw2015 cryptography
 **Points** : 100
 
 #Write-up
-At the start of the CTF, this challenge was worth 50 points, but they change it for 100 points. We realized that when you register/logout you get three more tokens each time. So, you create a new account to get more tokens. In that challenge, you need 10 tokens to buy a compass and one token for a pack of five food item.
+At the start of the CTF, this challenge was worth 50 points, but they changed it for 100 points. We realized that when you register/logout you get three more tokens each time. In that challenge, you need 10 tokens to buy a compass and one token for a pack of five food item.
 
-We create a python script that create many account. Then, it returns the cookie that we can replace with your current one. So, with that script you don't need to manually create account to have more tokens.
+We created a python script that create many account. Then, it returns the cookie that we can replace with your current one. So, with that script you don't need to manually create account to have more tokens.
 
 ###Script by [MOBergeron](https://gist.github.com/MOBergeron/a34e719e4587257defab)
 {% highlight python %}
