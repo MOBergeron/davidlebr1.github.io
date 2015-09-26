@@ -4,6 +4,7 @@ title:  "CSAW - K_{Stairs}"
 date:   2015-09-21 19:00
 categories: csaw2015
 tags: security ctf csaw2015 cryptography
+description: A web challenge for 100 points
 ---
 
 **Category** : Web 

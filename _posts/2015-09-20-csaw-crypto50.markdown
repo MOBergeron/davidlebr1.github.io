@@ -4,6 +4,7 @@ title:  "CSAW - wh1ter0se"
 date:   2015-09-20 22:00
 categories: csaw2015
 tags: security ctf csaw2015 cryptography
+description: Cryptography challenge for 50 points
 ---
 
 **Category** : Cryptography 

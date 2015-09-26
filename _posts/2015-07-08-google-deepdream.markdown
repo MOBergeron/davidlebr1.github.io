@@ -4,6 +4,7 @@ title:  "Google DeepDream"
 date:   2015-07-08 22:00
 summary: The Google DeepDream can be very very deep. You must see this !
 categories: other
+description: An introduction to Google Deep Dream
 ---
 In the last few days, I found [DeepDream](https://github.com/google/deepdream) and I was interested in learning this. So, I decide to make a try to create my own image with DeepDream.
 

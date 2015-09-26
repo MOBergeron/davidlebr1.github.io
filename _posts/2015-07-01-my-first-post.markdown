@@ -3,6 +3,7 @@ layout: post
 title:  "My first post !"
 date:   2015-07-01 18:21:00
 categories: other
+description: Welcome! 
 ---
 Welcome !
 
