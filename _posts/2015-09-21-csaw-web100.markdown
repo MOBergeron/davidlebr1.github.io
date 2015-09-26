@@ -11,6 +11,10 @@ description: A web challenge for 100 points
 
 **Points** : 100
 
+**Contributor** : [Marc-Olivier Bergeron](https://github.com/MOBergeron)
+
+***
+
 #Write-up
 At the start of the CTF, this challenge was worth 50 points, but they changed it for 100 points. We realized that when you register/logout you get three more tokens each time. In that challenge, you need 10 tokens to buy a compass and one token for a pack of five food item.
 
