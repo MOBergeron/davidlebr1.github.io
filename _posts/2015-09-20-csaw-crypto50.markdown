@@ -24,12 +24,12 @@ I found that it was not a real .m4v file... When we opened it with notepad we co
 
 I knew a useful cryptogram solver that I use online : [rumkin cryptogram solver](http://rumkin.com/tools/cipher/cryptogram-solver.php)
 
-And I got this back :
+And I received this result :
 
 > BUT NO IT WAS A SHORT CUT TO SOMETHING BIGGER SOMETHING GRANDER SOMETHING BEAUTIFUL WE'VE BEEN FOCUSED ON WHAT'S IN FRONT OF US BUT WE HAVEN'T BEEN LOOKING AT WHAT'S ABOVE US- BUT NO IT WAS A SHORT CUT TO SOMETHING BIGGER SOMETHING GRANDER SOMETHING BEAUTIFUL WE'VE BEEN FOCUSED ON WHAT'S IN FRONT OF US BUT WE HAVEN'T BEEN LOOPING AT WHAT'S ABOVE US
 
 
-I searched a little bit on google in order to find the good sentence and it seems that it's some lyrics from an episode of Mr. Robot. And, the good sentence was :
+I searched a little bit on google in order to find the right sentence and it seems that it's some lyrics from an episode of Mr. Robot. And, the right sentence was :
 
 ###The flag 
 
