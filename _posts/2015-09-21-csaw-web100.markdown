@@ -11,7 +11,7 @@ description: A web challenge for 100 points
 
 **Points** : 100
 
-**Contributor** : [Marc-Olivier Bergeron](https://github.com/MOBergeron)
+**Contributor** : [Marc Olivier Bergeron](https://github.com/MOBergeron)
 
 ***
 
