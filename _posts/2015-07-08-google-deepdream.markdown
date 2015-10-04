@@ -6,9 +6,9 @@ summary: The Google DeepDream can be very very deep. You must see this !
 categories: other
 description: An introduction to Google Deep Dream
 ---
-In the last few days, I found [DeepDream](https://github.com/google/deepdream) and I was interested in learning this. So, I decide to make a try to create my own image with DeepDream.
+In the last few days, I found [DeepDream](https://github.com/google/deepdream) and I was interested in learning this. So, I decided to give it a try and create my own image with DeepDream.
 
-I will explain how to do it the easy way on Ubuntu. First, install the docker.io.
+I will explain how to do this the easy way on Ubuntu. First, install the docker.io.
 
 {% highlight html %}sudo apt-get install docker.io{% endhighlight %}
 
@@ -18,7 +18,7 @@ Then, you just need to run this command in your terminal.
 
 It can take a few minutes to install and download the docker image.
 
-For more information, you can visit the [mjibson repo](https://github.com/mjibson/ddd). Thanks to him to make the Google DeepDream a lot easier to try.
+For more information, you can visit [mjibson repo](https://github.com/mjibson/ddd). Thanks to him for making the Google DeepDream a lot easier to try.
 
 ###Original imageI use the default setting which is ```inception_4c/output```
 ![Original image]({{ site.url }}/images/google-deepdream/original.jpg)

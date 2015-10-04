@@ -16,9 +16,9 @@ description: A web challenge for 100 points
 ***
 
 #Write-up
-At the start of the CTF, this challenge was worth 50 points, but they changed it for 100 points. We realized that when you register/logout you get three more tokens each time. In that challenge, you need 10 tokens to buy a compass and one token for a pack of five food item.
+At the start of the CTF, this challenge was worth 50 points, but they changed it for 100 points. We realized that when you register/logout you get three more tokens each time. In that challenge, we needed 10 tokens to buy a compass and one token for a pack of five food item.
 
-My partner created a python script that create many account. Then, it returns the cookie that you can replace with your current one. So, with that script you don't need to manually create an account to have more tokens.
+My partner created a Python script that created many accounts. Then, it returned the cookie that we could replace with our current one. So, with that script you did not need to manually create an account to have more tokens.
 
 ###Script by [MOBergeron](https://gist.github.com/MOBergeron/a34e719e4587257defab)
 {% highlight python %}
@@ -51,7 +51,7 @@ if __name__ == "__main__":
 	print(r.cookies)
 {% endhighlight %}
 
-Then, you just need to buy a compass, foods and follow the compass indication to find the stairs.
+Then, we just needed to buy a compass, foods and follow the compass indication to find the stairs.
 
 And when we reached the stairs we got this message:
 
